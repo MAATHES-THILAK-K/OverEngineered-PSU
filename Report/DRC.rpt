@@ -1,0 +1,22 @@
+** Drc report for OverEngineered-PSU.kicad_pcb **
+** Created on 2025-12-30T21:15:43+0530 **
+
+** Found 0 DRC violations **
+
+** Found 3 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(100.0000 mm, 75.0000 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+    @(100.0000 mm, 75.0000 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(100.0000 mm, 75.0000 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+    @(100.0000 mm, 75.0000 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(100.0000 mm, 75.0000 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+    @(100.0000 mm, 75.0000 mm): Zone [GND] on F.Cu and B.Cu, priority 0
+
+** Found 0 Footprint errors **
+
+** End of Report **

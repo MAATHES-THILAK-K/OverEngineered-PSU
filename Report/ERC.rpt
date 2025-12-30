@@ -1,0 +1,25 @@
+ERC report (2025-12-30T23:24:59+0530, Encoding UTF8)
+
+***** Sheet /
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(82.55 mm, 52.07 mm): Symbol IC1 Pin 4 [GND, Bidirectional, Line]
+    @(111.76 mm, 173.99 mm): Symbol J1 Pin 5 [GND, Power output, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(87.63 mm, 109.22 mm): Symbol IC2 Pin 4 [GND, Bidirectional, Line]
+    @(111.76 mm, 173.99 mm): Symbol J1 Pin 5 [GND, Power output, Line]
+[multiple_net_names]: Both BARREL and IN_TERMINAL are attached to the same items; BARREL will be used in the netlist
+    ; warning
+    @(153.67 mm, 38.10 mm): Label 'BARREL'
+    @(147.32 mm, 57.15 mm): Label 'IN_TERMINAL'
+[multiple_net_names]: Both 5V and USB_5V are attached to the same items; 5V will be used in the netlist
+    ; warning
+    @(52.07 mm, 151.13 mm): Global Label '5V'
+    @(128.27 mm, 147.32 mm): Label 'USB_5V'
+[multiple_net_names]: Both VAR_V and VAR_V_O are attached to the same items; VAR_V will be used in the netlist
+    ; warning
+    @(106.68 mm, 35.56 mm): Global Label 'VAR_V'
+    @(234.95 mm, 104.14 mm): Global Label 'VAR_V_O'
+
+ ** ERC messages: 5  Errors 0  Warnings 5
